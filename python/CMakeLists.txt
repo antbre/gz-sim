@@ -45,6 +45,7 @@ pybind11_add_module(${BINDINGS_MODULE_NAME} MODULE
   src/gz/sim/EntityComponentManager.cc
   src/gz/sim/EventManager.cc
   src/gz/sim/TestFixture.cc
+  src/gz/sim/Sensor.cc
   src/gz/sim/Server.cc
   src/gz/sim/ServerConfig.cc
   src/gz/sim/UpdateInfo.cc
